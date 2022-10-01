@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alvaropsouza/surveyApp/issues"
   },
-  "homepage": "https://github.com/alvaropsouza/surveyApp#readme"
+  "homepage": "https://github.com/alvaropsouza/surveyApp#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }
